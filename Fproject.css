@@ -1,5 +1,5 @@
 .banner{
-background-image:url(IMG/ck.jpg.jpg);
+background-image:url(ck.jpg.jpg);
 height: 500px;
 background-size: cover;
 background-position: center;
@@ -76,7 +76,7 @@ P{
     font-size: 20px;
     
 }
- hr{
+ hr{ 
     height: 2px;
     background-color: black;
  }
